@@ -1,4 +1,4 @@
-        <Macro name="Prettify SCCM" Ctrl="yes" Alt="yes" Shift="no" Key="80">
+        <Macro name="Convert IME" Ctrl="yes" Alt="yes" Shift="no" Key="80">
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='&lt;!\[LOG(.*)(\]LOG\]!&gt;)*(&lt;time=&quot;.*&quot;) (date=&quot;.*&quot;) component=&quot;.*&quot; context=&quot;.*&quot; type=&quot;.*&quot; thread=&quot;.*&quot; file=&quot;.*&quot;&gt;.*(LOG\]!&gt;)*' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
